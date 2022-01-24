@@ -1,4 +1,5 @@
 # Online shop on Angular
+
 Online shop on Angular with NgRx, RxJS, and backend API.
 
 ## Development server
